@@ -10,3 +10,5 @@ assertEqual("Faez", "Faez");
 assertEqual("Lighthouse Labs", "Bootcamp");
 assertEqual(1, 1);
 assertEqual(1, 5);
+
+/* Just testing to see if GitHub is receiving this */
