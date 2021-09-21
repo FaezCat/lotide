@@ -1,8 +1,8 @@
 {
-  "name": "lotide",
+  "name": "@faezcat/lotide",
   "version": "1.0.0",
-  "description": "",
-  "main": "assertArraysEqual.js",
+  "description": "You require both the chai assertion library in addition to the mocha framework to run this package",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/FaezCat/lotide.git"
   },
-  "author": "",
+  "author": "Faez Catrina",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FaezCat/lotide/issues"
